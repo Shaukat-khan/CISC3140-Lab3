@@ -1,0 +1,3 @@
+report : Real_Estat.awk
+# Awk reads the csv file and copies it as a text
+	@awk -f src/Real_Estate.awk data/Real_Estate.csv > reports/my_Real_Estate_report.txt
