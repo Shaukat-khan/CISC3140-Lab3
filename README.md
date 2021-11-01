@@ -1,3 +1,6 @@
+# Lab 3
+In this Lab we were to create a repository with README, Awk script, and a Makefile
+
 # Real Estate DataSet
 The link to the Real Estate DataSet that I used can be found [here](https://www.kaggle.com/arslanali4343/real-estate-dataset).
 
